@@ -1,4 +1,4 @@
-﻿
+﻿using System;
 
 namespace ConsoleApplication1
 {
@@ -10,6 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
